@@ -2,6 +2,9 @@
 
 Shared lists for everyone.
 
+# Link for the Code Review
+https://github.com/Taytay884/iListServerSideCodeReview/pull/1/files#
+
 ## Just to illustrate the project.
 
 So we have started the project with React-Native which is really not familiar for us. 
